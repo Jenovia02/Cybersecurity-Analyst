@@ -2,6 +2,7 @@
 <strong> CYBERSECURITY-ANALYST </strong> <br>
 <br> ![giphy](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/ad5d5180-1532-40ed-ab83-315956470744)
 
+<strong> PROGRAMMA </strong> <br>
 <strong> UNIT 1 WEEK 1 </strong> <br>
 M1 - Introduzione all'hacking  <br>
 <strong> UNIT 2 WEEK 5 </strong> <br>
