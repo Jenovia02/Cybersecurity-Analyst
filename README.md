@@ -1,5 +1,5 @@
 # EPICODE
-Cybersecurity Analyst <br>
+<strong> CYBERSECURITY-ANALYST </strong> <br>
 <br> ![giphy](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/ad5d5180-1532-40ed-ab83-315956470744)
 
 UNIT 1 WEEK 1  <br>
