@@ -29,4 +29,6 @@
  <br> FineScansione
  <br> RemediationMeta
  
-<br>![penetration-testing-phases](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/ee755ef1-9f9d-41aa-8d92-6410e348607c)
+<br> <img width="550" alt="Screenshot 2023-10-05 012229" src="https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/19ab4b4b-49de-4fd2-9b09-abda65b97d52">
+
+
