@@ -1,5 +1,4 @@
 <h1> PENETRATION TESTING(2) </h1> <br>
-
 <b> <br> D1. PT - Attacchi alle Web APP(2) </b>
 <b> <br> D2. PT - Attacchi alle Web APP(3) </b>
 <b> <br> D3. PT - Attacchi ai sistemi </b>
