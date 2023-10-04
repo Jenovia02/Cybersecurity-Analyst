@@ -1,4 +1,4 @@
-<h1> <strong> CYBERSECURITY-ANALYST </strong> <\h1> </strong> <br>
+<h1> <strong> CYBERSECURITY-ANALYST </strong> <\h1> <br>
 <b> EPICODE </b>
 <br><strong> PROGRAMMA </strong> <br>
 
