@@ -27,4 +27,4 @@
  <br> Installazione e avvio del gioco gameshell
  <br> Gioco Gameshell
 
- <br> <img width="500" alt="Screenshot 2023-10-05 012229" src="https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/d5951bf9-eb69-42a9-8adb-21e15d12976a">
+ <br> <img width="600" alt="Screenshot 2023-10-05 012229" src="https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/d5951bf9-eb69-42a9-8adb-21e15d12976a">
