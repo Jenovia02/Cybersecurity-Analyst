@@ -8,6 +8,6 @@
 <b> <br> D7. PT - Metasploit(1) </b>
 <b> <br> D8. PT - Metasploit(2) </b>
 
-<br> [image](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/3a06b399-dba1-4530-af28-ae7674fc5352)
+<br>![xenonstack-what-is-penetration-testing](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/a0dd58ae-904e-48ec-a41a-60bc585afcb3)
 
 
