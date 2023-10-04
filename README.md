@@ -1,7 +1,9 @@
-<h1> <b> CYBERSECURITY-ANALYST </h1> </b>
+
+<h1> <b> CYBERSECURITY-ANALYST </h1 </b>
+
 
 <h2> <strong> PROGRAMMA </h2> </strong>
-<strong> EPICODE </strong> <br>
+<font style="border:violet; border-width:10px;border-style:outset;"> <strong> EPICODE </strong> <br> </font>
 
    <strong> UNIT 1 WEEK 1</strong>  <br>
      <i> M1 - Introduzione all'hacking  <br>
@@ -22,3 +24,6 @@
      <i> M6 - Malware Analysis  <br>
 
 <br> ![giphy](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/ad5d5180-1532-40ed-ab83-315956470744)
+
+
+</html>
