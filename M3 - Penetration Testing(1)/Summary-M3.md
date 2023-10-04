@@ -28,6 +28,5 @@
  <br> ScansioneInizio
  <br> FineScansione
  <br> RemediationMeta
-
-
-<br>![xenonstack-what-is-penetration-testing](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/a0dd58ae-904e-48ec-a41a-60bc585afcb3)
+ 
+<br>![penetration-testing-phases](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/ee755ef1-9f9d-41aa-8d92-6410e348607c)
