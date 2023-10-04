@@ -7,5 +7,6 @@
 <b> <br> D6. PT - Attacchi alle reti(3) </b>
 <b> <br> D7. PT - Metasploit(1) </b>
 <b> <br> D8. PT - Metasploit(2) </b>
-![image](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/34354041-6768-40bb-9af5-f1baea59bd45)
+![image](https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/3a06b399-dba1-4530-af28-ae7674fc5352)
+
 
