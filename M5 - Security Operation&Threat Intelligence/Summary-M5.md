@@ -35,4 +35,7 @@
  <i> <br> 19 Ottobre 2023 </i>
  <br> 
  <br> 
- <br> 
+
+ 
+<br> <img width="570" alt="Screenshot 2023-10-05 224157" src="https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/453de052-35db-4f2b-b2a9-4e08a097c6e4">
+
