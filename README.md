@@ -1,7 +1,6 @@
 <h1> <b> CYBERSECURITY-ANALYST </h1 </b>
 
 <h2> <strong> PROGRAMMA </h2> </strong>
- <img width="111" alt="Screenshot 2023-10-05 004932" src="https://github.com/Jenovia02/Cybersecurity-Analyst/assets/134729946/f2c4bb68-3613-4457-8814-1183981f9a9f">
 
    <strong> UNIT 1 WEEK 1</strong>  <br>
      <i> M1 - Introduzione all'hacking  <br>
